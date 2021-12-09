@@ -41,7 +41,7 @@ class App extends Component<AppProps, AppState> {
       showLatestNetworkLatencyValue: "50 ms",
     };
     this.performanceButton = React.createRef();
-    document.title = "Edge Commerce Demo";
+    document.title = "CaribPay Commerce";
   }
 
   async componentDidMount() {
